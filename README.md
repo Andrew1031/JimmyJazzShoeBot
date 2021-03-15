@@ -7,7 +7,7 @@ Step by step instructions :
 
 1. Download repository and unzip file
 2. Go to directory that the project is in using the terminal
-3. Type python addToCart.py to run the program
+3. Type python AddToCart.py to run the program
 4. User inputs email address
 5. User inputs password
 6. User inputs desired shoe id
