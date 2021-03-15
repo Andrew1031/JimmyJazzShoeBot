@@ -5,6 +5,11 @@ This program is intended to provide the user with as much convenience and speed 
 
 Step by step instructions :
 
-User inputs URL of the desired shoe
-User inputs desired shoe size
-User is taken to the cart page where the shoe is already in the cart
+1. Download repository and unzip file
+2. Go to directory that the project is in using the terminal
+3. Type python addToCart.py to run the program
+4. User inputs email address
+5. User inputs password
+6. User inputs desired shoe id
+7. user inputs shoe size
+8. User is taken to the cart page where the shoe is already in the cart
