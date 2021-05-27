@@ -20,7 +20,9 @@ This program is intended to provide the user with as much convenience and speed 
 The main language used is Python with Beautiful Soup and Requests being the libraries; requests are used to make post requests to the server in order to log the user in and add a specific shoe size to cart. Beautiful Soup is used to scrape the webpage and obtain dynamic values that are required to make the post requests.
 
 ## Examples of use
-To obtain a limited release edition sneaker on release time; using this program will give one a significant advantage over manually adding the shoe to cart. It can be sold out within seconds; therefore every millisecond counts considering there are thousands of people wanting a limited edition shoe
+To obtain a limited release edition sneaker on release time; using this program will give one a significant advantage over manually adding the shoe to cart. It can be sold out within seconds; therefore every millisecond counts considering there are thousands of people wanting a limited edition shoe. 
+
+To use successfully, one must have the link of the shoe, and the desired shoe size
 
 ## Project Status
 Project is still currently being developed, and will update this with any future changes
